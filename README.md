@@ -46,7 +46,7 @@ pip install pillow
 python app.py
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/8536173e-0d1d-4dcc-92c6-fff8ec565809)
+![image](https://github.com/user-attachments/assets/c7e17d98-44d2-4224-b013-ad44fb369105)
 
 
 
